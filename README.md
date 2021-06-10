@@ -66,6 +66,23 @@ All the sample in the different repository here propose some application develop
 -	PlayStore :
     -	[Link](https://play.google.com/store/apps/details?id=com.ela.deviceadvertisingmobile)
 
+## ANDROID / IOS
+All the sample in the different repository here propose some application developped with Visual Studio with C#. The lastest Xamarin framework is use to allow builds on different platforms.
+
+### EasyProbe
+-   Name : Easy-Probe
+        - Environnement : C# / Xamarin
+-   Purpose
+       - Scan Bluetooth devices 
+       - Interpret data from Temperature tags as Blue Puck T-Probe    
+       - Give an example of T-Probe characteristics
+-   Github
+       - [Link](https://github.com/elaInnovation/EasyProbe)
+-   PlayStore
+       - [Link](https://play.google.com/store/apps/details?id=com.ela.innovation.easyprobe)
+-   AppleStore
+       - Ongoing
+
 ## WINDOWS
 All the sample in the different repository here propose some application developped with Visual Studio, C# and different .Net framewok (Framework.Net, .NetCore...)
 
