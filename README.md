@@ -43,7 +43,7 @@ All the sample in the different repository here propose some application develop
     -	[Link](https://github.com/elaInnovation/bluetoothctl-rpi-connected)
 
 ## ANDROID
-All the sample in the different repository here propose some application developped with Android Studio and Java. We use the different API from Android to integrate our **ELA Blue Devices**. 
+All the samples in the different repositories here propose some application developped with Android Studio and Java. We use the different API from Android to integrate our **ELA Blue Devices**. 
 
 
 ### Android-BlueTool-Downloader
