@@ -51,8 +51,6 @@ All the samples in the different repositories here propose some application deve
     -	Environnement: Java/ Android
 -	Purpose
     -	Download data logger from ELA Blue Devices
--	Github
-    -	[Link](https://github.com/elaInnovation/Android-BlueTool-Downloader)
 
 ### Android-Blue-Tool-Box
 -	Name : Android-Blue-Tool-Box
@@ -61,8 +59,6 @@ All the samples in the different repositories here propose some application deve
     -	Scan Bluetooth devices
     -	Connect to ELA Blue Devices
     -	Interpret ELA Blue Devices Data and display into 2D Graphics
--	Github
-    -	[Link](https://github.com/elaInnovation/Android-BlueTool-Downloader)
 -	PlayStore :
     -	[Link](https://play.google.com/store/apps/details?id=com.ela.deviceadvertisingmobile)
 
