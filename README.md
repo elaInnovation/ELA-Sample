@@ -42,47 +42,6 @@ All the sample in the different repository here propose some application develop
 -	Github:
     -	[Link](https://github.com/elaInnovation/bluetoothctl-rpi-connected)
 
-## ANDROID
-All the samples in the different repositories here propose some application developped with Android Studio and Java. We use the different API from Android to integrate our **ELA Blue Devices**. 
-
-
-### Android-BlueTool-Downloader
--	Name : Android-BlueTool-Downloader
-    -	Environnement: Java/ Android
--	Purpose
-    -	Download data logger from ELA Blue Devices
--	Github
-    -	[Link](https://github.com/elaInnovation/Android-BlueTool-Downloader)
-
-### Android-Blue-Tool-Box
--	Name : Android-Blue-Tool-Box
-    -	Environnement: Java/ Android
--	Purpose
-    -	Scan Bluetooth devices
-    -	Connect to ELA Blue Devices
-    -	Interpret ELA Blue Devices Data and display into 2D Graphics
--	Github
-    -	[Link](https://github.com/elaInnovation/Android-BlueTool-Downloader)
--	PlayStore :
-    -	[Link](https://play.google.com/store/apps/details?id=com.ela.deviceadvertisingmobile)
-
-## ANDROID / IOS
-All the sample in the different repository here propose some application developped with Visual Studio with C#. The lastest Xamarin framework is use to allow builds on different platforms.
-
-### EasyProbe
--   Name : Easy-Probe
-        - Environnement : C# / Xamarin
--   Purpose
-       - Scan Bluetooth devices 
-       - Interpret data from Temperature tags as Blue Puck T-Probe    
-       - Give an example of T-Probe characteristics
--   Github
-       - [Link](https://github.com/elaInnovation/EasyProbe)
--   PlayStore
-       - [Link](https://play.google.com/store/apps/details?id=com.ela.innovation.easyprobe)
--   AppleStore
-       - Ongoing
-
 ## WINDOWS
 All the sample in the different repository here propose some application developped with Visual Studio, C# and different .Net framewok (Framework.Net, .NetCore...)
 
